@@ -1,11 +1,13 @@
 ---
-layout: default
+layout: home
+title: Beautiful Jekyll
+subtitle: Build a beautiful and simple website in minutes
 ---
 
-# Beautiful Jekyll
+<div style="background-color: #1d1f21; padding: 1.5rem; border-radius: 10px; color: #ffffff; margin-bottom: 2rem;">
+  <p style="font-size: 1.2rem; line-height: 1.6;">
+    This website is powered by <strong>GitHub Pages/Jekyll</strong> and can be built for free in <strong>under 5 minutes</strong>. Literally.
+  </p>
+</div>
 
-Build a beautiful and simple website in minutes
-
-> This website is powered by GitHub Pages/Jekyll and can be built for free in **under 5 minutes**. Literally.
-
-[Get Started](#) { .btn }
+<a href="https://jekyllrb.com/docs/" class="btn btn-success btn-lg">Get Started</a>
