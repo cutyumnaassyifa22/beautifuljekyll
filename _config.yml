@@ -1,0 +1,26 @@
+title: Beautiful Jekyll
+author: Nama Kamu
+email: kamu@email.com
+description: Build a beautiful and simple website in minutes
+url: ""
+baseurl: ""
+
+theme: beautiful-jekyll-theme
+
+social-network-links:
+  email: true
+  github: yourusername
+  twitter: yourusername
+  facebook: yourusername
+  youtube: yourusername
+  rss: true
+
+footer-links-active:
+  rss: true
+  email: true
+  facebook: true
+  github: true
+  twitter: true
+  youtube: true
+
+timezone: Asia/Jakarta
