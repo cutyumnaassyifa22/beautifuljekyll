@@ -1,0 +1,11 @@
+title: beautifuljekyll
+email: cutyumna139@gmail.com
+description: >-
+  This website is powered by GitHub Pages/Jekyll and can be built for free in under 5 minutes. Literally.
+baseurl: ""
+url: "https://yifa22.github.io"
+author: Yumna Assyifa
+theme: beautiful-jekyll
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
