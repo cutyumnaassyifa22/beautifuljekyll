@@ -1,26 +1,18 @@
-title: Beautiful Jekyll
-author: Yumna Assyifa
-description: Personal website of Yumna
-url: "https://cutyumnaassyifa22.github.io"
-baseurl: ""
-enable-darkmode: true
-permalink: /:title/
+title: beautifuljekyll
+author: Dean Attali
+description: >- 
+  This is a demo post to show you how to write blog posts with markdown.
+baseurl: "" 
+url: "https://yifa22.github.io"
 
-navbar-links:
-  Home: ""
-  About Me: "about"
+markdown: kramdown
+theme: jekyll-theme-cayman
 
-footer-links-active:
-  github: true
-  email: true
-  rss: true
+plugins:
+  - jekyll-feed
 
-email: cutyumna139@gmail.com
+paginate: 5
+paginate_path: "/page:num"
 
-social-network-links:
-  github: cutyumnaassyifa22
-  email: cutyumna139@gmail.com
-
-collections:
-  posts:
-    output: true
+# Tag display
+tagline: ""
