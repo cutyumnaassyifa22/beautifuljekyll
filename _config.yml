@@ -1,0 +1,8 @@
+title: "Portofolio Remedial"
+author: "Cut Yumna Assyifa"
+email: "yumna@example.com"
+description: >-
+  Website ini dibuat sebagai tugas remedial menggunakan Jekyll dengan tampilan mirip Beautiful Jekyll.
+baseurl: ""
+url: "https://cutyumnaassyifa22.github.io"
+theme: minima
