@@ -1,11 +1,30 @@
-title: beautifuljekyll
-email: cutyumna139@gmail.com
-description: >-
-  This website is powered by GitHub Pages/Jekyll and can be built for free in under 5 minutes. Literally.
+title: Beautiful Jekyll
+author: Yumna Assyifa
+description: Personal website of Yumna
+url: "https://cutyumnaassyifa22.github.io"
 baseurl: ""
-url: "https://yifa22.github.io"
-author: Cut Yumna Assyifa
+
 theme: beautiful-jekyll
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+enable-darkmode: true
+permalink: /:title/
+
+navbar-links:
+  Beranda: ""
+  Tentang Saya: "about"
+
+footer-links-active:
+  rss: true
+  email: true
+  facebook: true
+  github: true
+  twitter: true
+  youtube: true
+
+email: cutyumna139@gmail.com
+
+social-network-links:
+  github: cutyumnaassyifa22
+  email: cutyumna139@gmail.com
+  facebook: cut yumna
+  twitter: cut yumna
+  youtube: cutyumna
