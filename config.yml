@@ -3,32 +3,24 @@ author: Yumna Assyifa
 description: Personal website of Yumna
 url: "https://cutyumnaassyifa22.github.io"
 baseurl: ""
-
-theme: beautiful-jekyll
 enable-darkmode: true
 permalink: /:title/
 
 navbar-links:
-  Beranda: ""
-  Tentang Saya: "about"
-
-collections:
-  posts:
-    output: true
+  Home: ""
+  About Me: "about"
 
 footer-links-active:
-  rss: true
-  email: true
-  facebook: true
   github: true
-  twitter: true
-  youtube: true
+  email: true
+  rss: true
 
 email: cutyumna139@gmail.com
 
 social-network-links:
   github: cutyumnaassyifa22
   email: cutyumna139@gmail.com
-  facebook: cut yumna
-  twitter: cut yumna
-  youtube: cutyumna
+
+collections:
+  posts:
+    output: true
