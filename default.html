@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+    <title>{{ page.title }} - {{ site.title }}</title>
+    <link rel="stylesheet" href="/assets/css/style.css" />
+  </head>
+  <body>
+    <header>
+      <h1><a href="/">{{ site.title }}</a></h1>
+      <nav>
+        <a href="/">Beranda</a> |
+        <a href="/about/">Tentang Saya</a>
+      </nav>
+    </header>
+
+    <main>
+      {{ content }}
+    </main>
+
+    <footer>
+      <small>© {{ site.author }} - {{ site.time | date: "%Y" }}</small>
+    </footer>
+  </body>
+</html>
