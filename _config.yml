@@ -1,0 +1,24 @@
+title: Beautiful Jekyll
+author: Yumna Assyifa
+description: Personal website of Yumna
+url: "https://username.github.io"  # Ganti dengan username GitHub kamu
+baseurl: ""  # Jangan isi kalau repo-nya nama: username.github.io
+
+# Tema
+enable-darkmode: true
+permalink: /:title/
+
+# Navigasi
+navbar-links:
+  Beranda: ""
+  Tentang Saya: "about"
+
+# Sosial media
+social-network-links:
+  github: usernamekamu
+
+# Footer
+footer-links-active:
+  github: true
+  email: true
+email: judilumna139@gmail.com
