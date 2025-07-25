@@ -6,7 +6,7 @@ baseurl: ""
 url: "https://yifa22.github.io"
 
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: beautiful-jekyll
 
 plugins:
   - jekyll-feed
