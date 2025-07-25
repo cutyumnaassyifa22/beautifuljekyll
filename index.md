@@ -1,7 +1,13 @@
 ---
 layout: home
-title: Beautiful Jekyll
+title: beautifuljekyll
 ---
+
+# Halo, saya Yumna Assyifa 👋
+
+Selamat datang di website pribadi saya.  
+Saya mahasiswa Politeknik Negeri Lhokseumawe, umur 18 tahun.  
+Website ini dibuat menggunakan tema Beautiful Jekyll 
 
 <div style="text-align: center; padding: 100px 20px;">
   <h1 style="font-size: 3em; color: white;">Beautiful Jekyll</h1>
