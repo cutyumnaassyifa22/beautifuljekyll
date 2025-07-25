@@ -12,6 +12,10 @@ navbar-links:
   Beranda: ""
   Tentang Saya: "about"
 
+collections:
+  posts:
+    output: true
+
 footer-links-active:
   rss: true
   email: true
