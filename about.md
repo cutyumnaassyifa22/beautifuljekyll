@@ -4,15 +4,16 @@ title: Tentang Saya
 permalink: /about/
 ---
 
-## Halo, saya Yumna 👋
-
-Saya adalah mahasiswa di **Politeknik Negeri Lhokseumawe**, berusia 18 tahun.  
-Saya suka belajar web development, GitHub Pages, dan tema Jekyll yang elegan dan minimalis.
-
-Website ini saya buat sebagai tempat belajar, eksperimen, dan dokumentasi pribadi.
-
----
-
-**Kontak:**
-
-- GitHub: [github.com/usernamekamu](https://github.com/cutyumna139@gmail.com)
+<div class="card">
+  <h2 style="color: limegreen;">Tentang Saya</h2>
+  <hr>
+  <p><strong>Nama:</strong> Yumna Assyifa</p>
+  <p><strong>Umur:</strong> 18 tahun</p>
+  <p><strong>Status:</strong> Mahasiswi</p>
+  <p><strong>Kampus:</strong> Politeknik Negeri Lhokseumawe</p>
+  <p><strong>Minat:</strong> Web Development, GitHub Pages, dan Jekyll</p>
+  <p>
+    <a href="https://github.com/cutyumnaassyifa22">GitHub</a> •
+    <a href="mailto:cutyumna139@gmail.com">Email</a>
+  </p>
+</div>
