@@ -1,14 +1,9 @@
 ---
-layout: default
+layout: page
 title: Tentang Saya
 permalink: /about/
 ---
 
-## Tentang Saya
-
-- **Nama:** Yumna Assyifa  
-- **Umur:** 18 tahun  
-- **Status:** Mahasiswa  
-- **Kampus:** Politeknik Negeri Lhokseumawe  
-
-Saya suka belajar tentang web dan GitHub Pages.
+<h2>Cut Yumna Assyifa</h2>
+<p>Umur 18 tahun, mahasiswa Politeknik Negeri Lhokseumawe.</p>
+<p>Email: cutyumna139@gmail.com</p>
