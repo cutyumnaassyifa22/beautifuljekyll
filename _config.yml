@@ -1,24 +1,30 @@
 title: Beautiful Jekyll
 author: Yumna Assyifa
 description: Personal website of Yumna
-url: "https://username.github.io"  # Ganti dengan username GitHub kamu
-baseurl: ""  # Jangan isi kalau repo-nya nama: username.github.io
+url: "https://username.github.io"
+baseurl: ""
 
-# Tema
 enable-darkmode: true
 permalink: /:title/
 
-# Navigasi
 navbar-links:
   Beranda: ""
   Tentang Saya: "about"
 
-# Sosial media
-social-network-links:
-  github: usernamekamu
-
-# Footer
+# ✅ Aktifkan social icon di footer
 footer-links-active:
-  github: true
+  rss: true
   email: true
+  facebook: true
+  github: true
+  twitter: true
+  youtube: true
+
 email: judilumna139@gmail.com
+
+social-network-links:
+  github: cutyumnaassyifa22
+  email: cutyumna139@gmail.com
+  facebook: cut yumna
+  twitter: cut yumna
+  youtube: cutyumna
